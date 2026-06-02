@@ -1,0 +1,7 @@
+2026-06-01 18:33:12,451 - INFO - [conditional] step=1 avg_loss=0.999558
+2026-06-01 18:33:16,946 - INFO - [conditional] step=2 avg_loss=0.999362
+2026-06-01 18:33:21,406 - INFO - [conditional] step=3 avg_loss=0.999498
+2026-06-01 18:33:25,866 - INFO - [conditional] step=4 avg_loss=0.999501
+2026-06-01 18:33:30,325 - INFO - [conditional] step=5 avg_loss=0.999519
+2026-06-01 18:33:34,794 - INFO - [conditional] step=6 avg_loss=0.999599
+2026-06-01 18:33:34,795 - INFO - [conditional] completed batches=6 final_avg_loss=0.999599
